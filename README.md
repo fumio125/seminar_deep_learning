@@ -5,4 +5,6 @@
 
 ## 内容
 - [説明](instructions.pdf)
+- [データセット](https://cave.cs.toronto.edu/kriz/cifar.html)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/seminar_deep_learning/blob/master/seminar_deep_learning.ipynb) [雛形Notebook](seminar_deep_learning.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/seminar_deep_learning/blob/master/seminar_deep_learning_pre_dataset.ipynb) [雛形Notebook（データセットアップロードをスキップする版）](seminar_deep_learning_pre_dataset.ipynb)
